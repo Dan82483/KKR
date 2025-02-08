@@ -10,7 +10,7 @@ header *{
     margin: 10px;
 }
 header {
-       align-items:center;
+       align-items:right;
 }
 nav a {
     margin: 10px;
