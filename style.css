@@ -9,9 +9,8 @@ header {
 header *{
     margin: 10px;
 }
-header p {
-    width:400px;
-    text-align:center;
+header {
+       align-items:center;
 }
 nav a {
     margin: 10px;
