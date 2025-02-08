@@ -9,7 +9,8 @@ header {
 header *{
     margin: 10px;
 }
-header {
+header p {
+    backgroundcolor:red;
        align:right;
 }
 nav a {
