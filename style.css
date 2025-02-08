@@ -7,8 +7,8 @@ header {
 }
 
 header *{
-    margin: 10px;
-    padding:auto;
+    margin: 0 auto;
+    
 }
 header p {
    background-color: rgb(60, 10, 46);
