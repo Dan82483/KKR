@@ -10,7 +10,7 @@ header *{
     margin: 10px;
 }
 header p {
-    background-color:red;
+   background-color: rgb(60, 10, 46);
        align:right;
 }
 nav a {
